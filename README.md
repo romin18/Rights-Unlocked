@@ -1,7 +1,3 @@
-Sure! Below is a structured and professional README template for your **Rights Unlocked** project. You can customize the details as per your project's specifics.
-
----
-
 # Rights Unlocked
 
 **Rights Unlocked** is an open-source project designed to provide a platform for individuals to easily understand and access their legal rights. The goal is to create an intuitive, user-friendly interface that helps users navigate legal procedures, find relevant information, and receive tailored recommendations based on their situation.
